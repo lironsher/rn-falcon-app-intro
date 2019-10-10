@@ -1,7 +1,11 @@
 <h3 align="center">
   rn-falcon-app-intro
 </h3>
+<h2>
 
+Fixes to work with Hermes rn 0.61.2
+
+</h2>
 <p align="center">
   <a href="https://facebook.github.io/react-native/">React Native</a> component <br/>
   Implementing a parallax effect welcome page using base on <a href="https://github.com/leecade/react-native-swiper">react-native-swiper</a>, similar to the one found in Google's app like Sheet, Drive, Docs...<br/>
